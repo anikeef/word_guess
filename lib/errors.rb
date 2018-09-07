@@ -1,0 +1,2 @@
+class MistakeRepeat < StandardError
+end
